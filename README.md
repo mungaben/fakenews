@@ -7,6 +7,28 @@
 <a align="center" href="https://twitter.com/Naval29193321" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
 
 </p>
+<!-- install requiremnts.txt -->
+
+## Installation
+ -   pip install -r *requirements.txt*
+
+<!-- images on running script -->
+
+![run like this](/images/imports.png)
+
+![run like this](/images/tester.png)
+
+
+
+
+<!-- about -->
+## About The Project
+
+
+
+<!-- PROJECT images -->
+
+
 
 
 
